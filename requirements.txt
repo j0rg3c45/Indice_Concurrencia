@@ -1,0 +1,6 @@
+# Dependencias del proyecto Índice de Concurrencia
+pandas
+geopandas
+folium
+matplotlib
+jupyter

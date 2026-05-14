@@ -1,0 +1,11 @@
+name: indice_concurrencia
+channels:
+  - conda-forge
+  - defaults
+dependencies:
+  - python=3.11
+  - pandas
+  - geopandas
+  - folium
+  - matplotlib
+  - jupyter

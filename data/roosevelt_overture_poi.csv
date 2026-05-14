@@ -1,0 +1,475 @@
+nombre,categoria,confianza,lat,lon,macrocategoria,fecha_extraccion,poligono,fuente,momento,release_overture
+De La Rosa Lenceria,clothing_store,0.52,3.42712986,-76.5421286,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Kundalini DiHartz,sin_categoria,0.26,3.42697,-76.54196,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Corporación Juan Bosco,community_services_non_profits,0.7,3.42765439,-76.54179789,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dra. Grisel Isaac - Clínica Integrativa,health_and_medical,0.72,3.42658,-76.54163,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Corte y Grabado Laser,professional_services,0.38,3.42760713,-76.54160385,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centro Medico Veterinario Megamascotas,veterinarian,0.43,3.42639549,-76.54157396,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+SHE Worldwide Bodyshapers,sin_categoria,0.09,3.4265695358701134,-76.54158466471125,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Doctor Javier Velásquez Bedoya,sin_categoria,0.58,3.42628277,-76.54139797,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Maser Ltda,environmental_and_ecological_services_for_businesses,0.61,3.426938,-76.541394,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+OvniTiendas,food_delivery_service,0.27,3.42668,-76.54131,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Clic Medical,medical_supply,0.21,3.42690444,-76.54117607,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Academia Cecap,education,0.61,3.42593685,-76.54104474,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Inmobiliaria J.G. Valencia,real_estate,0.29,3.42696704,-76.54099027,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+FH Beauty Glam,beauty_salon,0.3,3.426263465582707,-76.54093444471894,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tango Vivo & Salsa Viva,dance_school,0.77,3.426537699643191,-76.54087246358898,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La 36,landmark_and_historical_building,0.11,3.4256575,-76.54081899,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Academia Musical Preludio Ltda.,music_school,0.77,3.4254577,-76.5408442,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Hoteles en Cali - Hotel Siglo 21,hotel,0.71,3.42617886,-76.54080497,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Live Salsa and Tango Vivo,dance_school,0.41,3.42640366,-76.54071401,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+consenteMENt,day_spa,0.41,3.42523567,-76.54068767,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+PhotoCapture,professional_services,0.18,3.42551997,-76.54069319,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Bienestar Integral,health_and_medical,0.39,3.4260024,-76.5406941,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Paladar Sur,restaurant,0.97,3.42526064,-76.54065893,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Labor Sonrisas,dentist,0.78,3.425957,-76.54058101,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Optica Imbanaco,eyewear_and_optician,0.64,3.42534529,-76.54054895,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+LA PLÁNTULA Garden Co.,landscape_architect,0.77,3.4255715,-76.5405489,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Salomon & Compania,lawyer,0.56,3.42557378,-76.54052528,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Karen's Pizza,pizza_restaurant,0.88,3.42532061,-76.54051896,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Representaciones Hospitalarias FEYA,health_and_medical,0.22,3.42579071,-76.54047712,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Consultorio Medico,health_and_medical,0.38,3.42611707,-76.54047374,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Amkornet distribuidores,cosmetic_and_beauty_supplies,0.23,3.42579989,-76.54047815,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Extremeflex Col,sports_and_fitness_instruction,0.27,3.42668,-76.54045,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Manada House,pet_store,0.28,3.42614937,-76.54044722,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dumashe Cali San Fernando,hair_supply_stores,0.46,3.4258162,-76.54045547,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Yorkieland Boutique,pet_store,0.52,3.42620647,-76.54035637,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Market360,marketing_agency,0.37,3.42655247,-76.54029491,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Canchas Sinteticas Futbol 5,sports_and_recreation_venue,0.68,3.427255127510393,-76.54021170874151,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Solarium Terraza,restaurant,0.82,3.42564029,-76.54010211,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Car Bang,sin_categoria,0.7,3.42560575,-76.54008007,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+UNAD UDR Cali,college_university,0.96,3.42640659,-76.54006239,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+D'Corpus Spa,spas,0.99,3.42567763,-76.54006449,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fuquensbykarinab,beauty_and_spa,0.45,3.4265704637749,-76.540017842967,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Circulo de viajes CALI,travel_company,0.47,3.42554,-76.54002,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+LICHT Radiopantallas,automotive_parts_and_accessories,0.21,3.42554,-76.54002,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dekohogar sillas reclinables,furniture_store,0.14,3.42560345,-76.54000214,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Funerales García,funeral_services_and_cemeteries,0.62,3.42732121,-76.54000142,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tecnic Hapas La 9,automotive_parts_and_accessories,0.28,3.4257528,-76.53998473,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fundación Foro Suroccidente,community_services_non_profits,0.27,3.42522517,-76.53995759,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cesantías fácil retiro,marketing_agency,0.24,3.4258866,-76.539952,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Hogar Geriátrico San Marcos,hospital,0.6,3.42661965,-76.53972692,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+El Danubio Hotel Campestre,hotel,0.85,3.4264801,-76.5397263,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Brasas Peruanas | Santiago de Cali,peruvian_restaurant,0.62,3.42758331,-76.5397169,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Capilla de Velación Fraternidad,funeral_services_and_cemeteries,0.8,3.42717918,-76.53971092,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Caprapsi,occupational_safety,0.63,3.42579515,-76.53966728,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Juanos Restaurante Café,restaurant,0.7,3.42581441,-76.53963074,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Bookafé,bookstore,0.32,3.42746374,-76.53960242,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Panadería Florentina y Prapers,bakery,0.76,3.42686642,-76.53958973,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Rejuveness Spa Facial y Corporal,spas,0.6,3.42749892,-76.53956414,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Praper's,restaurant,0.51,3.42691324,-76.53951532,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Club de Negocios Colombia,social_service_organizations,0.58,3.42581557,-76.53949865,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+AV Abogados,lawyer,0.03,3.42573323,-76.53947272,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Crissalida,counseling_and_mental_health,0.26,3.42577996,-76.53946227,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+BABY EAR -Perforacion de orejas,b2b_jewelers,0.13,3.425459225365,-76.53948,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fincas de Colombia,travel,0.5,3.42575746,-76.53945625,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tropicoco,sin_categoria,0.55,3.4276,-76.53943,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Espiritista Cali-Amarres De Amor,religious_organization,0.55,3.42704,-76.53937,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Iglesia en Santiago de cali,church_cathedral,0.55,3.4272232,-76.5393625,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+lennahotel,accommodation,0.63,3.42715,-76.53932,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Amortiteca del Sur,automotive_repair,0.98,3.42755348,-76.53926217,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Superllantas Y Servicios La Roosevelt,tire_dealer_and_repair,0.4,3.42760352,-76.53921653,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Special Service Frontiers,transportation,0.12,3.42728828,-76.53914729,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+De Mano en Mano,shopping,0.04,3.42757149,-76.53913165,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centro de Mística - Edith Stein,catholic_church,0.68,3.42588,-76.53902,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Logistica y Servicios Empresariales Especiales Aloha,transportation,0.32,3.42715416,-76.53903196,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+"Natalia Hernandez, Odontología Integral.",dentist,0.51,3.4272908,-76.5389999,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Klauss Artesanal,bakery,0.55,3.42725263,-76.53896643,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Peluqueria Luis Angel,beauty_salon,0.56,3.42665772,-76.53894849,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vehiculos y Automotores Jabc,car_dealer,0.69,3.42690943,-76.53890487,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Liceo Rosita,high_school,0.71,3.4263806275129984,-76.53886577749832,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Iglesia Templete,church_cathedral,0.94,3.4257632983119226,-76.53882707953316,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Sociedad Colombiana de Arquitectos Paisajistas,architectural_designer,0.22,3.42537111,-76.53883072,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Iglesia El Templete,church_cathedral,0.82,3.425643536128136,-76.53873466998333,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Funerales del Valle Templo,funeral_services_and_cemeteries,0.81,3.42594259,-76.53870147,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Santisimo Sacramento,church_cathedral,0.95,3.42571517,-76.53862621,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Clinica Rey David,hospital,0.77,3.426963174168706,-76.53854107211859,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Escuela Vallecaucana de Ventas EVAV,college_university,0.66,3.42763,-76.53844,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Argenius Peluquería Y Spa,barber,0.54,3.4260405,-76.53842746,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+templete gourmet,restaurant,0.6,3.42541082,-76.53840313,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Tasca del Sur,restaurant,0.44,3.42588807,-76.53837569,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vitalys Company Sas,eat_and_drink,0.37,3.42758335,-76.53832191,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+DUANA - REY DAVID,hospital,0.77,3.42680991071358,-76.5383194934314,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La CuadriArepa,restaurant,0.62,3.42606061,-76.53828526,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Pikos Pizza en kono y,pizza_restaurant,0.62,3.42619741,-76.5382379,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Seven and Seven Uniformes,uniform_store,0.53,3.42739572,-76.53820218,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Akemi Uniformes,clothing_store,0.33,3.42736768,-76.53817646,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Exilion Ropa Deportiva,sports_wear,0.28,3.42628,-76.53814,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Iglesia Remanente Cali,church_cathedral,0.75,3.4270837798648,-76.538121700287,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Matizz Clínicas Odontológicas,dentist,0.77,3.4271222779598207,-76.53807253073083,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+HENAO´S Barberia y Centro de Belleza,barber,0.63,3.42646221,-76.53801509,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tienda Expoemprendedores,shopping_center,0.11,3.42671593,-76.53799717,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Rucafe,yoga_studio,0.47,3.42560964,-76.5379941,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cafe Piazzolla Cali,community_services_non_profits,0.67,3.42564271,-76.53791961,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Escuela de Tango Piazzolla,dance_school,0.58,3.42558703,-76.5378998,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Outlet Joyas En Acero,jewelry_store,0.08,3.42637115,-76.53786024,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Oro Export,jewelry_store,0.23,3.42694864,-76.53783264,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Floristeria Bosques del Libano,flowers_and_gifts_shop,0.5,3.42600992,-76.53778285,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Health and Fitness Store,active_life,0.32,3.42613075,-76.53771537,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Eventos Continental,event_planning,0.45,3.42749967,-76.53766138,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Servicios Empresariales MSM,occupational_safety,0.28,3.42758763,-76.5375813,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centrosur Plaza,shopping_center,0.97,3.42705536,-76.53738978,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Sucursal Bancolombia,bank_credit_union,0.77,3.426983,-76.537376,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+INTIMA LILI PINK CALI SUR PLAZA,sin_categoria,0.77,3.4269622901459997,-76.53735116501235,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Liga Vallecaucana de Beisbol,community_services_non_profits,0.29,3.42681557,-76.53734191,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Motel Ibiza,hotel,0.58,3.42745,-76.53733,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Nutrabiotics,pharmaceutical_companies,0.6,3.42680299,-76.53731872,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+GEF,clothing_store,0.36,3.42682586,-76.53731888,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+A. Closets Modulares de Occidente,furniture_store,0.55,3.42710669,-76.53726918,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cristus Sinergia Laboratorio Clínico,laboratory_testing,0.69,3.42703024,-76.53726092,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Colombia Viaja,travel_services,0.41,3.4270919,-76.5372307,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Kaoma cafe express,sin_categoria,0.61,3.4270943,-76.5372164,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Punto Blanco,clothing_store,0.32,3.42738166,-76.53708347,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Isamoda SAS,clothing_store,0.6,3.42750703,-76.53704583,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Furniture Innovacion Jhonny III,furniture_store,0.14,3.42757262,-76.53702908,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fundacion Artistica y Academia de Baile Bembelequa,art_school,0.62,3.42795895,-76.5407607,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Restaurante y Cafetería de Juanes,colombian_restaurant,0.36,3.42797434,-76.54069581,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centro de estética Stetic Siluet | tratamientos corporales y faciales | reducción y moldeo,beauty_salon,0.06,3.42777886,-76.54065324,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Indervalle,sports_and_recreation_venue,0.91,3.42787229,-76.54036149,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Restaurante Semigourmet,restaurant,0.27,3.42990424,-76.54006504,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Logística y Seguros,insurance_agency,0.43,3.43201119,-76.54025151,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Medical Stetic Ips,laboratory_testing,0.95,3.43267576,-76.54018524,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Revenue Managers,professional_services,0.11,3.4323801,-76.54010197,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dra. Karen Torres ,health_and_medical,0.27,3.43266,-76.54012,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Hotel Casa Vallecaucana,hotel,0.97,3.43250062,-76.54011706,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+SAEV SEGUROS,insurance_agency,0.77,3.432068,-76.54017089999999,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Casi Usados,thrift_store,0.32,3.43312757,-76.54016973,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Master Esthetic,beauty_and_spa,0.26,3.43346,-76.54011,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Descubrelo Store,sin_categoria,0.07,3.43346,-76.5402,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Sondeluz Escuela y Academia de Baile,specialty_school,0.77,3.4338121,-76.5402939,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fundación Sondeluz,community_services_non_profits,0.59,3.4338201256644,-76.540299654007,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+El Papotas,burger_restaurant,0.39,3.4331908,-76.5403851,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dulcey - Muebleria & Carpinteria,carpenter,0.44,3.43331,-76.54032,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Nexura Internacional S.A.S,software_development,0.34,3.43266982,-76.54039671,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+TSL Cali,religious_organization,0.27,3.4323033,-76.5404809,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Escuela de Enfermería del Valle Edenv,nursing_school,0.93,3.43452236,-76.54041036,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vulcanizadora la 5ta,automotive_repair,0.39,3.43531159,-76.54030148,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dulces Uniformes M.G,uniform_store,0.71,3.43531501,-76.54030929,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Estilo Dental,sin_categoria,0.7,3.43533444,-76.54039485,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Rainbow Bar,bar,0.94,3.43544865,-76.54035242,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+TangaLoca,lingerie_store,0.41,3.43514523,-76.54036784,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Biciparche,bike_repair_maintenance,0.59,3.43528535,-76.54037336,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Ivelioss Verde,sin_categoria,0.17,3.4347683157100573,-76.54038713076122,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Odontología Integral e Implantes,dentist,0.59,3.4348161155281,-76.540353298187,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Laboratorios Neo Ltda.,laboratory_testing,0.87,3.43486885,-76.54033765,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+FotoArt Studio,professional_services,0.54,3.4351197,-76.5402665,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+katze cocktail's,bar,0.68,3.43526,-76.54027,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+El Ultimo Piso,dance_club,0.91,3.43546238,-76.5401796,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Bar La Quinta Estación,bar,0.5,3.4348007663167,-76.540093456117,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Casa Hotel Vida,hotel,0.89,3.43449444,-76.54008222,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+In Situ Hotel,hotel,0.94,3.43457,-76.54007,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+INTELVALLE - Diplomados y cursos de Salud en Cali.,nursing_school,0.89,3.43551703,-76.54008008,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Rocks Papa,fast_food_restaurant,0.76,3.43546669,-76.54017551,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Emisora La Voz de Dios Cali,broadcasting_media_production,0.48,3.4345585,-76.53940076,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fundación Bibliotec,library,0.55,3.43660741,-76.5393897,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Pintas y Sueños,clothing_company,0.24,3.43455563,-76.53951157,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Summer Ink,beauty_salon,0.77,3.4360137329485,-76.53962,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+EMCALI Central San Fernando,event_planning,0.42,3.435073,-76.539856,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+L'innocenti Ristorante,restaurant,0.68,3.4345501,-76.5398601,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Impladent,dentist,0.94,3.43529388,-76.53982293,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Motorepuestos & Lujos Nuevo Latir SAS,professional_services,0.69,3.436145401194495,-76.53966353985416,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Clínica Impladent,dentist,0.78,3.43545117,-76.53969571,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Colegio San Fernando Rey,school,0.98,3.43521439,-76.53969233,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Inmobiliaria Las Vegas,appraisal_services,0.24,3.43402499,-76.5396576,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tercera Órbita,media_agency,0.15,3.43388348,-76.53971797,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cinematools Studio,audio_visual_equipment_store,0.93,3.43266685,-76.53969926,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Cueva No.1 Taller Automotriz,automotive_repair,0.94,3.43208725,-76.53983416,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Impronta Ips,health_and_medical,0.56,3.4333883,-76.5398684,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Govinda Snacks Vegetarianos,vegetarian_restaurant,0.44,3.433169,-76.540046,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Evangelista Mora Coliseum,stadium_arena,0.93,3.42855993,-76.53995913,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Coliseo Evangelista Mora,basketball_stadium,0.77,3.428394665615796,-76.5398450759334,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Baladas de Pecos Bill,bar,0.8,3.42918597,-76.53965682,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Los Amigos de Pascual,bar,0.64,3.42908115,-76.53952773,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+ServiDigital,electronics,0.77,3.4277894,-76.539509,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Servivir,community_services_non_profits,0.65,3.42774902,-76.53945952,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Florentino Coffee House,cafe,0.5,3.427983389999,-76.539452075958,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tienda táctica cali,sporting_goods,0.19,3.4278767,-76.5394457,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Proteccion Pensiones Y Cesantias,event_planning,0.43,3.4280172196428,-76.539421699517,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Rancho y Licores El Triunfo,bar,0.23,3.42900246,-76.53947777,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Radio OETH,broadcasting_media_production,0.63,3.43046199,-76.53945852,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Colegio Los Angeles De San Fernando,high_school,0.97,3.43023964,-76.53945059,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centro Homeopatico El Cipres,naturopathic_holistic,0.65,3.43092996,-76.53954531,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Delirium Poptails,ice_cream_shop,0.28,3.43100179,-76.5395565,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cenit Odontologia ,health_and_medical,0.94,3.43093,-76.53957,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Odontología Ospina Vega,sin_categoria,0.35,3.43093,-76.53957,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+PipePediatra,professional_services,0.27,3.433856064218215,-76.5396061572371,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Jessgaviria.odontologia,general_dentistry,0.31,3.4338565957032783,-76.53960612890923,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Colmundo Viajes,travel_services,0.35,3.43445159,-76.53944485,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Colmundo Radio Cali,social_service_organizations,0.68,3.43445005,-76.5394429,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Carpintería Arquitectónica en Madera,furniture_store,0.48,3.43128233,-76.53941766,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+UNION Empresarial GEFET,professional_services,0.37,3.4334176,-76.5393677,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Trofemarcas Ltda,trophy_shop,0.81,3.43325368,-76.53934503,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Duke Seguridad,professional_services,0.27,3.43336211,-76.53927994,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+SKA Studio Colombia,womens_clothing_store,0.2,3.43338205,-76.53927537,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Invisible Grupo Dental,dentist,0.9,3.43176089,-76.53921863,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Panadería Montecarlo,bakery,0.96,3.4316848,-76.53923231,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centro comercial unisentro armenia quindio,shopping_center,0.71,3.4298044,-76.53930917,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Club Ho Sin Sul Hapkido,martial_arts_club,0.65,3.4281367,-76.5393838,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+FOTO Inmuebles Colombia,real_estate,0.27,3.4286643867168,-76.539280307007,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cafe Van Van,coffee_shop,0.57,3.42917611,-76.53923887,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Boom 99.1 FM,radio_station,0.73,3.42775343,-76.53923112,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Máxima,broadcasting_media_production,0.5,3.4277434,-76.53922706,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Red Sonora Radio,advertising_agency,0.85,3.42771183,-76.53912613,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+CBdesign,internet_marketing_service,0.2,3.42885354,-76.53910075,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Buenos muchachos licorera,bar,0.43,3.42884314,-76.53910904,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Liluba Cosmetics cali,cosmetic_and_beauty_supplies,0.51,3.42901687,-76.53910826,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Casanova Salon,beauty_salon,0.88,3.42918993,-76.53909805,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Wonder Art Home,furniture_store,0.18,3.42900013,-76.53918753,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Licores De Ole,restaurant,0.51,3.43017574,-76.53915331,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Buda De Oro,restaurant,0.6,3.43025117,-76.53919173,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Odontosanos,dentist,0.45,3.43097317,-76.53912625,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Arteaga Concesionario,motorcycle_dealer,0.33,3.43074159,-76.53910857,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Frisby,chicken_restaurant,0.77,3.430594292025333,-76.53909993251128,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Locura,bakery,0.83,3.42982001,-76.53910855,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Planeta Pez,veterinarian,0.54,3.4298237036558,-76.539127421093,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Auto Battery Shop,automotive_parts_and_accessories,0.92,3.42945272,-76.53912426,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Be Fusion Estampados Cali,clothing_store,0.35,3.42954298,-76.53907002,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Capilla Nuestra Señora De La Medalla Milagrosa,church_cathedral,0.8,3.43106434,-76.53905771,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Books and Books,bookstore,0.5,3.43083797,-76.53904217,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Ferrollaves y Servicios Ortiz Cali,business_manufacturing_and_supply,0.96,3.43087754,-76.53903594,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Central de Herramientas Cali,appliance_repair_service,0.48,3.43066119,-76.5390212,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Biera Inmobiliaria S.A.S,real_estate,0.91,3.42903844,-76.53908275,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Pollos Crispi,chicken_restaurant,0.94,3.42798412,-76.53907615,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Sonora1500am,radio_station,0.42,3.42782,-76.53905,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Importadora Elite,fashion_accessories_store,0.26,3.42794,-76.539,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+FRANCO Pastelería,desserts,0.64,3.42794,-76.539,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Sucursal,restaurant,0.61,3.42801,-76.53897,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dr Felipe Contecha,general_dentistry,0.45,3.42774442,-76.53896185,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tax Contadores Sas,accountant,0.29,3.4277056,-76.53885142,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Estacion de Servicio,gas_station,0.36,3.42839479,-76.53884158,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Combuscol Estadio,gas_station,0.4,3.429011,-76.538827,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Texaco,gas_station,0.82,3.42868435,-76.5388523,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Monchi's Gourmet,fast_food_restaurant,0.39,3.42882,-76.538861,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Corporación Regional de Educación Superior CRES,college_university,0.94,3.42964899,-76.53884658,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tiendanimaldelsur,veterinarian,0.73,3.429922596341463,-76.53880276707316,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+CRC Medivalle SAS,health_and_medical,0.57,3.429428,-76.5388674,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Iglesia Bautista de San Fernando,church_cathedral,0.74,3.4296744,-76.53892856,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Yamaha Regnier y CIA Roosevelt,motorcycle_dealer,0.41,3.43232925,-76.53897121,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Adiós Piojos,beauty_and_spa,0.33,3.4324501,-76.5389328,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+"SUMOTO, Av. Rooseltvelt, Cali.",motorcycle_dealer,0.58,3.43185624,-76.53890343,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Su Moto S.A.,motorcycle_manufacturer,0.92,3.4319001,-76.5387833,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dreams world tour ,travel_company,0.24,3.43221,-76.5388,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Leños & Carbón,restaurant,0.85,3.43221,-76.5388,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Full cars Centro Automotriz,automotive_repair,0.75,3.43231,-76.5388,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Motorepuestos La 28 ,automotive_parts_and_accessories,0.53,3.43231,-76.5388,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Grupo Nativos RYJ S.A.S,vitamins_and_supplements,0.65,3.43226,-76.5388,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Hr Centro De Copiado Y Personalización,printing_services,0.32,3.43238,-76.53879,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cobicivil SAS,construction_services,0.55,3.43234,-76.5388,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Suzuki,motorcycle_dealer,0.98,3.43195668,-76.53884099,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Viajepormenos.co.,travel_services,0.36,3.43301145,-76.53879938,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Moteros Shop,motorcycle_repair,0.34,3.43313996,-76.53878976,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cocina Cazejas,restaurant,0.37,3.43289748,-76.5387957,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vital Tour and Travel,travel_services,0.73,3.43291636,-76.53877411,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Intercambios Culturales,financial_service,0.07,3.43290552,-76.53877898,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+School of Esthetics Danelly Mendez,spas,0.88,3.43294624,-76.5387674,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Burger Ville,restaurant,0.52,3.4340530588708,-76.538850590587,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Ecomotos A&N,motorcycle_dealer,0.97,3.43386916,-76.53889732,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tentaciones Eroticas,clothing_store,0.72,3.43399488,-76.53888045,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vida Natural,health_food_store,0.62,3.43399989,-76.53888576,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+EVA cirugia corporal,education,0.5,3.43284,-76.53889,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Honda Supercali,motorcycle_dealer,0.89,3.43290346,-76.53888826,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Clínica del Rayón,automotive_repair,0.92,3.43344222,-76.53892347,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Abra Cadabra Costumes,costume_store,0.59,3.43349238,-76.53893947,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Movilaire,auto_company,0.78,3.433503,-76.538942,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Casa del Pandeyuca,bakery,0.95,3.43300664,-76.53894342,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Café Color,restaurant,0.64,3.43306127,-76.53895722,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tiendas Ara Roosevelt,supermarket,0.68,3.43290895,-76.53895581,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Domino's Pizza,pizza_restaurant,0.99,3.43318778,-76.53895947,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Linea Profesional polarizados,automotive_parts_and_accessories,0.55,3.43391,-76.53894,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tatiana Ordoñez Neurorehabilitación,doctor,0.45,3.4340324,-76.5389258,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Akt Motos Outlet Sede Principal Cali - Roosevelt,motorcycle_dealer,0.66,3.43428872,-76.53896762,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centro de Estetica Yaneth Valencia,spas,0.34,3.43378152,-76.53903429,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cosmetic dentistry specialist,motorcycle_dealer,0.74,3.4331119,-76.5390355,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Glamour,beauty_salon,0.15,3.4335321,-76.53899569,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Botica,hospital,0.6,3.43360664,-76.53899502,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Coservicio,event_planning,0.3,3.43302671,-76.53899552,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Iglesia Ministerio Maná Cali,religious_organization,0.83,3.4327612,-76.5390124,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centro de Enseñanza Automovilistica AAA,driving_school,0.77,3.43226889,-76.53899356,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Consultorio Dental,orthodontist,0.55,3.43114752,-76.53901638,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+NaturTeck,grocery_store,0.75,3.43113024,-76.53902678,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Panadería Paola Roosevelt,sin_categoria,0.97,3.43139822,-76.53903084,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Centro de Profesionales,naturopathic_holistic,0.66,3.43165123,-76.53904429,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Apolo Restaurante,restaurant,0.94,3.43132879,-76.53903381,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Almacen Herbalife,department_store,0.78,3.43199911,-76.53908056,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Inciva Patrimonio Vital,public_and_government_association,0.84,3.43202,-76.53908,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Plántula,nursery_and_gardening,0.74,3.4322323,-76.5390659,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Parque El Templete,park,0.69,3.43224,-76.53907,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Servicio Automotriz Ibarrautos,automotive_repair,0.59,3.43231,-76.53907,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+MOLI CAFÉ,cafe,0.59,3.43221,-76.53907,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Frisby,chicken_restaurant,0.76,3.43194679,-76.53905639,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Pan árabe El Mediterráneo,bakery,0.47,3.4313638,-76.5390878,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+KMO Combate Urbano,fitness_trainer,0.42,3.4330013948427,-76.539128213653,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Grupo Consultor Empresarial NLC,professional_services,0.49,3.4344519903221,-76.539106070995,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Bajaj Grupo UMA,motorcycle_dealer,0.77,3.4354371,-76.5390011,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Biblioteca Departamental Jorge Garcés Borrero,library,0.99,3.4364043655088907,-76.53904103241466,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Museo Interactivo Abrakadabra,history_museum,0.57,3.4363684366838454,-76.53899773890373,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Observatorio Astronómico del Valle,landmark_and_historical_building,0.79,3.43664,-76.539112,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Museo Departamental de Ciencias Naturales INCIVA,history_museum,0.95,3.43629296,-76.53889664,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Servicios de limpieza y mantenimiento Soluciones a Tiempo SAS,gardener,0.25,3.4347544742129266,-76.53893408297539,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Envaphar SAS,plastic_manufacturer,0.56,3.43491,-76.5389,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+CafeLupin,cafe,0.87,3.4350187,-76.5388786,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Edificio San Joaquin,landmark_and_historical_building,0.94,3.43484749,-76.53887296,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Artemisa Roosevelt,health_food_store,0.85,3.43463347,-76.53887255,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Salud Total EPS Avenida Roosevelt,medical_center,0.64,3.43483225,-76.53885817,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tienda Grupo Uma Bajaj Roosevelt,car_dealer,0.71,3.43539374,-76.5388595,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+SOS Compurgencias,arcade,0.77,3.436052566666667,-76.53875376666666,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Stella Marmolejo,clothing_store,0.21,3.43574332,-76.53868659,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Baterias Autoyankee,automotive_parts_and_accessories,0.52,3.43576167,-76.53867255,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fitness24Seven,gym,1.0,3.435324,-76.538652,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Rumbavana Club,dance_club,0.9,3.43500887,-76.53865658,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Carlos Martínez Noguera,sin_categoria,0.04,3.4350731450017,-76.538701057434,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Bancolombia,atms,0.53,3.43452816,-76.53869237,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Escuela de Automovilismo JC,driving_school,0.84,3.43467787,-76.53867012,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Englity English,language_school,0.52,3.43595998,-76.53858654,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Barrio San Fernando,landmark_and_historical_building,0.51,3.43540537,-76.53860892,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Club Tao Cali,dance_club,0.9,3.43636168,-76.53861015,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Primsalud,dentist,0.37,3.43672976,-76.53875347,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La casa del terror,clothing_store,0.88,3.43666013,-76.53875154,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Veterinaria Mundo Canino y Felino,veterinarian,0.81,3.43619458,-76.53835832,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Salsa Night Club,dance_club,0.81,3.43694594,-76.5383797,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+El Manicero,dance_club,0.89,3.43716605,-76.53840942,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Hora Loca Cali,event_technology_service,0.77,3.436409699999999,-76.5384818,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+SUPER BIKE servicio técnico,motorcycle_repair,0.74,3.4355149882833,-76.53852,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Clases de Tango Cali,topic_concert_venue,0.56,3.4350731450017,-76.538513302803,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Muévelo Cali,dance_school,0.61,3.43515722,-76.53846609,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Athenea Hospital Veterinario ,pet_services,0.87,3.4350700628494,-76.538330078125,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vaez floristería,flowers_and_gifts_shop,0.55,3.43446992,-76.53836868,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Santuario a la Virgen Milagrosa,church_cathedral,0.96,3.43112784,-76.53846993,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+MaxiCarnicos SAS,butcher_shop,0.37,3.43425175,-76.53844976,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+El Sazón de Machú,restaurant,0.45,3.43425844,-76.53844374,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Apolis hostel,hostel,0.64,3.43440734,-76.53849002,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cantabile Escuela de Música,music_school,0.86,3.43333192,-76.53856943,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Grace Estudios,music_production,0.77,3.43331381,-76.53858092,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Restaurante Vegano Durga Mission,vegetarian_restaurant,0.56,3.43425,-76.53865,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Edecanes Tiempo de vals Cali,event_planning,0.33,3.43401,-76.53867,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La LORA licores,bar,0.61,3.43381,-76.53868,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+PALATE otro nivel,burger_restaurant,0.07,3.43397,-76.53868214,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+El Parche Licores,bar,0.84,3.43413827,-76.53871465,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Conexion IO SAS,audio_visual_equipment_store,0.71,3.43404024,-76.53875382,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Ariadna,spas,0.4,3.4336861,-76.53875566,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Comedica IPS,medical_center,0.66,3.43372576,-76.53874145,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Coosalud EPS,hospital,0.59,3.43399067,-76.53873159,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Coridem SAS ,media_news_company,0.29,3.43308,-76.53873,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Hora de viajar,travel_services,0.45,3.43300055,-76.5387424,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Auteco Valle Motos,motorcycle_repair,0.63,3.43290085,-76.53871539,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vallemotos,motorcycle_dealer,0.62,3.43284783,-76.53871777,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Motorlab Cali,motorcycle_repair,0.97,3.4330701,-76.53870114,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Grupo BrainStorming,event_planning,0.29,3.43290197,-76.5386527,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Viajamax,travel_services,0.48,3.43290272,-76.53865075,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+HONDA GRUPO SUPERMOTOS CALI PPAL. AV. ROOSEVELT,motorcycle_dealer,0.77,3.432736,-76.538701,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Global Service World S.A.S,business,0.26,3.43266649,-76.5386127,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Doctor William Vega,surgeon,0.57,3.4323856,-76.5386047,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dr William Vega Fernandez,plastic_surgeon,0.31,3.43245983,-76.53854515,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Iglesia La Milagrosa,church_cathedral,0.58,3.43093253,-76.53857946,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+MAXI CANES,sin_categoria,0.12,3.43006865,-76.53856296,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Escuela de Artes Marciales Dragón Amarillo SEDE San Fernando,martial_arts_club,0.6,3.4297866,-76.5386062,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Twin Towers Bienes Raices,event_planning,0.36,3.43025896,-76.53863463,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+CCED Training Center and Directed Education,education,0.87,3.42928295,-76.53864424,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Mayami Plaza,dance_club,0.65,3.4287534083238307,-76.5386088897635,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+GAMMA Exclusive Detailing,auto_restoration_services,0.34,3.42896115,-76.53859273,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Paradisex Shop Templete,adult_entertainment,0.85,3.42834908,-76.53859428,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Kasa 5ta ApartaHotel,hotel,0.68,3.42832,-76.53859,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+MP Hotel,hotel,0.98,3.42781561,-76.53850925,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Pro GPS Cali,automotive_services_and_repair,0.48,3.428591161843,-76.538483798504,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+ORVE,fashion,0.31,3.428781117330827,-76.5384772914303,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Rines gomez reparacion y pintura,damage_restoration,0.92,3.4287183,-76.5385113,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+MTX Car Audio,car_dealer,0.8,3.42857246,-76.53851493,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Formula 1 Tire and Rim,tire_dealer_and_repair,0.53,3.42858442,-76.53853704,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Clínica Veterinaria Mundo Canino y Felino,veterinarian,0.48,3.4301928,-76.53843533,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Salón de Eventos Rose's Cedro 2,event_planning,0.98,3.42816926,-76.53827659,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Hans Fotografía,professional_services,0.18,3.42820375,-76.53827482,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Odontologia Especializada Dr. Daniel Sanchez,dentist,0.5,3.42822285,-76.53819903,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Martinez y Velasco Odontología,doctor,0.56,3.42822,-76.53818,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dra. Nathalia Martínez,dentist,0.77,3.4280904863872,-76.538132429123,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Auto lujos Las Vegas,automotive_dealer,0.48,3.42969012,-76.53811246,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+central de rines y llantas,tire_dealer_and_repair,0.85,3.42975288,-76.53813781,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Escuela Tecnica Gloria Mejia,cosmetology_school,0.96,3.42941268,-76.53821916,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Nativos Centro de Medicina Natural ,health_and_medical,0.3,3.430151,-76.53828,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Petmour - Mascotas Con Glamour,pet_store,0.77,3.42948402,-76.53832178,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Iglesia La Milagrosa,catholic_church,0.61,3.43174614,-76.53831878,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+IPC Constructores,construction_services,0.23,3.43313655,-76.53830209,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Crecerenfamilia,non_governmental_association,0.41,3.4331748736122,-76.538172125784,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Rentokil,pest_control_service,1.0,3.433076,-76.537997,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Renovacion Carismatica Catolica,church_cathedral,0.91,3.43438731,-76.53790437,Religioso,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Grupo SB,health_and_medical,0.81,3.43260558,-76.53799825,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Lujos y Accesorios Juanes,automotive_parts_and_accessories,0.66,3.42997394,-76.53800071,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Servirines,shopping,0.89,3.43022687,-76.53800724,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+"Afric4bellos, Centro de Identidad y Estética ",beauty_and_spa,0.45,3.429951071672,-76.53807,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Baterías Electro Car,automotive_parts_and_accessories,0.88,3.42989148,-76.53810612,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Marcela Terraza Cali,bar,0.91,3.4280758,-76.5380324,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Hotel Ms Castellana,hotel,0.93,3.42807547,-76.5376383,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Hotel Castellana Real,hotel,0.97,3.42798282,-76.53755728,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Restaurante Ambrosia Caleña,hotel,0.52,3.42794012006016,-76.53756050308806,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+"Jonathan Vega, OD - Especialista en Endodoncia",endodontist,0.63,3.4320316251297,-76.537671089172,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Consultorio odontológico MR Dra. Mariana Rojas,general_dentistry,0.57,3.43199105,-76.53766217,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Cocina De Martina,restaurant,0.6,3.4323957512585,-76.5376496315,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Eventos Ipus,event_planning,0.61,3.4323275844769108,-76.53763617665474,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dra. Gloria Guzman,psychologist,0.32,3.4320685,-76.53762875,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dr. Rojas Odontología Estética,cosmetic_dentist,0.65,3.43206859,-76.5376267,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dra. Lucia Garces,dentist,0.34,3.43206847,-76.53762479,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Clinica Santa Luciana,cosmetic_dentist,0.97,3.43207387,-76.53760339,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dra Alejandra Mideros - Pediatra,pediatrician,0.56,3.43207,-76.5376,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dra. Melany Morales Chaverra,general_dentistry,0.29,3.43207,-76.5376,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+El Rico Bocado,restaurant,0.92,3.43255884,-76.53758212,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+reydeorientecali | Santiago de Cali,chinese_restaurant,0.16,3.43224622,-76.5375246,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Casa Latina,bar,0.81,3.43283234,-76.53754331,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Casino Lover's,dance_school,0.71,3.43309851,-76.53752329,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cliniaires,hvac_services,0.83,3.43295887,-76.53754146,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Kapital Llantas Cali,motorcycle_repair,0.95,3.43414665,-76.537502,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Lavandería Premier,laundromat,0.48,3.43374407,-76.53751869,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Creactivos Taller Publicitario,advertising_agency,0.54,3.43366399,-76.53751645,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Prime Inmobiliaria,real_estate,0.35,3.43415256,-76.53756146,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Corporacion Talentum,education,0.49,3.43390125,-76.53756326,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+rq construcciones,construction_services,0.03,3.43348006,-76.53757749,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Strikingfitness,boxing_class,0.93,3.433136,-76.537583,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Aquí es Richard Academia de Baile,school,0.59,3.43295,-76.53764,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+P&C Procesos y Consultoria,professional_services,0.4,3.4333467,-76.53766396,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Artmonia Estetica,beauty_and_spa,0.35,3.4342655,-76.53766722,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Inmobiliaria Cali Multibienes Ltda,property_management,0.75,3.43422281,-76.53777215,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+ESCUELA Y ACADEMIA DE BAILE SONDELUZ,dance_school,0.77,3.4323743320783437,-76.53769254684448,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Livvo,cosmetic_and_beauty_supplies,0.22,3.43222,-76.53768,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Todo Pie Laura Alvarez,doctor,0.65,3.43211224,-76.53768298,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vacunación Empresarial,event_planning,0.77,3.43110021,-76.53775153,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Odontólogia Daniela Sarria,health_and_medical,0.77,3.43207328,-76.53773465,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Terapia con células madres Dra. María Fernanda Caicedo Medicina Alternativa Regenerativa y Antienvejecimiento,naturopathic_holistic,0.5,3.43207718,-76.53773028,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Raid Shadow Legends,public_utility_company,0.32,3.4333744,-76.5378154,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Labdental JR,dentist,0.68,3.43512218,-76.53786544,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Markdis - Marketing Digital SoLoMo,internet_marketing_service,0.03,3.43527029,-76.53780126,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fundacion Hogar Gerontologico Nuevo Amanecer,retirement_home,0.59,3.43524353,-76.5378247,Alojamiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dra. Angela Luna,health_and_medical,0.46,3.4353081,-76.5378095,Salud y bienestar,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Balneario Chicuco,sports_and_recreation_venue,0.75,3.4368807,-76.537874,Deporte y recreación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Lavaclínicas S.A.,laundromat,0.79,3.43698459,-76.53780236,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+SENA Alameda,school,0.56,3.43693691,-76.53774878,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Events,event_planning,0.09,3.43596547,-76.53768856,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Vica Spa Centro de Estética,spas,0.37,3.43513837,-76.53767215,Belleza y estética,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Healthy feetcali,podiatrist,0.4,3.43526722,-76.53758112,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Tienda Yan,shopping,0.43,3.43472877,-76.53753005,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Notaria Cuarta del Circulo de Cali,notary_public,0.77,3.43448416,-76.53751743,Comunitario e institucional,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Mr Jeff Cali - El Cedro,laundromat,0.77,3.434908,-76.537489,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Peniche bodas y eventos,wedding_planning,0.59,3.4356868,-76.5375124,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Provide Colombia SAS,wholesale_store,0.54,3.43554223,-76.53746581,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Bodas y eventos peniche,wedding_planning,0.4,3.4357,-76.53752,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Servicali Automotriz Ltda,automotive_repair,0.61,3.43668086,-76.5375067,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Váziko S.A.S.,sin_categoria,0.77,3.4361668,-76.53791,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+vaziko,printing_services,0.3,3.43614364,-76.53790533,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+MSI Partner Group S.A.S,information_technology_company,0.24,3.43529099,-76.53790496,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Viajes Ando Viajando Sas,travel_services,0.33,3.43530892,-76.5379961,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fishnova Cali,sin_categoria,0.17,3.4347369879102,-76.538025,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Alevinos Del Valle SAS,biotechnology_company,0.32,3.43509457,-76.53807417,Servicios profesionales,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Escuela de música Madeira,music_production,0.57,3.43594,-76.53808,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cars Ltda,automotive_dealer,0.93,3.4371163,-76.5381101,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Laboratorio Dental Tecnodentyplus,dentist,0.78,3.43530607,-76.53823497,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Conciencia Salsera,music_school,0.16,3.43720214,-76.53829297,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+El Rincón De Heberth,bar,0.95,3.43730301,-76.53828811,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cachorros y Más,veterinarian,0.84,3.43644242,-76.5373009,Otros,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Fajas Equilibrium,clothing_store,0.73,3.43550058,-76.53745941,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Asadero,restaurant,0.2,3.43534355,-76.53744835,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Cargas La 7,automotive_repair,0.42,3.43560567,-76.53740862,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Pasarela Light,dance_club,0.45,3.43501816,-76.5374401,Educación y formación,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Alianzauto,car_dealer,0.81,3.43507305,-76.53744357,Automotriz y transporte,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+La Areperia,restaurant,0.74,3.43468001,-76.53745443,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Frisby Avenida Roosevelt,chicken_restaurant,0.77,3.4280290031474903,-76.53742898918237,Gastronomía y bebidas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Salon de Eventos Roses Cedro,event_planning,0.96,3.42794664,-76.53735624,Cultura y entretenimiento,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Dulces del Valle,candy_store,0.5,3.42797332,-76.53736588,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Colchones Cielo Azul,home_goods_store,0.83,3.42790108,-76.53711507,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
+Colchones 5 Estrellas,mattress_store,0.76,3.42774702,-76.5370559,Comercio y tiendas,2026-05-12,Av. Roosevelt - Buffer 100m,Overture Maps Foundation,linea_base_pre_intervencion,2026-04-15
