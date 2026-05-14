@@ -3,4 +3,10 @@ pandas
 geopandas
 folium
 matplotlib
+seaborn
+numpy
+shapely
+overturemaps
 jupyter
+scipy
+osmnx

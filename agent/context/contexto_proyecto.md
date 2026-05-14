@@ -43,20 +43,32 @@ El Índice de Concurrencia es un **insumo complementario** al Índice de Transfo
 |---------|-----------|-------------|
 | `roosevelt_overture_poi.csv` | `data/` | 474 POIs filtrados al polígono exacto, con categorías y macrocategorías |
 | `roosevelt_overture_poi (1).geojson` | `data/` | GeoJSON completo de los POIs filtrados |
+| `Comunas.zip` | `data/info_geo/` | Polígonos de comunas de Cali (ZIP) |
+| `Comunas.geojson` | `data/info_geo/geojson_comunas/` | Polígonos de comunas extraídos |
 | `roosevelt_overture_poi_mapa (1).png` | `outputs/` | Mapa de dispersión por macrocategoría |
 
 ## Pipeline actual (notebook)
 
-1. Instalar dependencias (`overturemaps`, `geopandas`, `shapely`)
-2. Definir bounding box del corredor Roosevelt
-3. Descargar POIs desde Overture Maps CLI
-4. Cargar y explorar datos descargados (896 POIs en bbox)
-5. Filtrar al polígono exacto del corredor (474 POIs dentro)
-6. Extraer nombre, categoría, confianza y coordenadas
-7. Agrupar en 13 macrocategorías temáticas
-8. Visualizar mapa con dispersión por macrocategoría
-9. Exportar CSV limpio con metadatos para datalake
-10. Descargar archivos (CSV, GeoJSON, PNG)
+El notebook `notebooks_py/roosevelt_overture_poi.ipynb` ejecuta:
+
+1. Verificar e instalar dependencias (`overturemaps`, `geopandas`, `folium`, etc.)
+2. Detectar entorno (Colab vs local) y clonar repos Git automáticamente
+3. Cargar polígono del corredor desde repo `indice-caminabilidad-roosevelt`
+4. Calcular bounding box automáticamente desde el polígono
+5. Descargar POIs desde Overture Maps CLI
+6. Filtrar al polígono exacto del corredor (474 POIs dentro)
+7. Extraer nombre, categoría, confianza y coordenadas
+8. Agrupar en 13 macrocategorías temáticas
+9. Generar mapa interactivo Folium multicapa (5 tile layers, POIs por categoría con popups)
+10. Generar mapa estático matplotlib con dispersión por macrocategoría
+11. Exportar CSV limpio con metadatos para datalake
+
+### Repositorios Git utilizados
+
+| Repositorio | URL | Datos que aporta |
+|-------------|-----|------------------|
+| Índice de Concurrencia | `https://github.com/j0rg3c45/Indice_Concurrencia.git` | Proyecto principal, outputs |
+| Caminabilidad Roosevelt | `https://github.com/j0rg3c45/indice-caminabilidad-roosevelt.git` | Polígono del corredor, datos geoespaciales |
 
 ## Macrocategorías definidas
 

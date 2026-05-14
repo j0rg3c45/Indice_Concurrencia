@@ -8,4 +8,11 @@ dependencies:
   - geopandas
   - folium
   - matplotlib
+  - seaborn
+  - numpy
+  - shapely
   - jupyter
+  - scipy
+  - osmnx
+  - pip:
+    - overturemaps

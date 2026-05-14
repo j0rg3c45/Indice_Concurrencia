@@ -29,11 +29,17 @@ Indice_Concurrencia/
 │   ├── context/        # Contexto del proyecto y glosario
 │   ├── knowledge_base/ # Guías metodológicas
 │   └── prompts/        # System prompt del agente
-├── data/               # Datos de entrada (CSV, GeoJSON)
+├── data/               # Datos de entrada y salida
+│   ├── roosevelt_overture_poi.csv
+│   ├── roosevelt_overture_poi (1).geojson
+│   └── info_geo/       # Información geográfica complementaria (comunas)
 ├── notebooks_py/       # Notebooks de análisis
+│   ├── roosevelt_overture_poi.ipynb      # Notebook principal de POIs
+│   └── caminabilidad_roosevelt_v2.ipynb  # Notebook de caminabilidad
 ├── outputs/            # Resultados (mapas, reportes)
 ├── docs/               # Documentación del proyecto
-│   └── metodologia.md
+│   ├── metodologia.md
+│   └── referencia_caminabilidad_notebook.md
 ```
 
 ## Instalación
@@ -51,11 +57,21 @@ conda env create -f environment.yml
 ## Uso
 
 El notebook principal (`notebooks_py/roosevelt_overture_poi.ipynb`) ejecuta el pipeline completo:
-1. Descarga POIs desde Overture Maps
-2. Filtra al polígono exacto del corredor
-3. Clasifica en macrocategorías
-4. Genera mapa de dispersión
-5. Exporta CSV limpio con metadatos
+1. Clona automáticamente los repositorios de datos (detecta Colab vs local)
+2. Carga el polígono del corredor desde el repo de caminabilidad
+3. Descarga POIs desde Overture Maps
+4. Filtra al polígono exacto del corredor
+5. Clasifica en macrocategorías
+6. Genera mapa interactivo Folium multicapa
+7. Genera mapa estático matplotlib
+8. Exporta CSV limpio con metadatos
+
+### Repositorios relacionados
+
+| Repositorio | Uso |
+|-------------|-----|
+| [Indice_Concurrencia](https://github.com/j0rg3c45/Indice_Concurrencia.git) | Este proyecto |
+| [indice-caminabilidad-roosevelt](https://github.com/j0rg3c45/indice-caminabilidad-roosevelt.git) | Fuente del polígono y datos geoespaciales |
 
 ## Metodología
 

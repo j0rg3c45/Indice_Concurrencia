@@ -29,12 +29,15 @@ El índice permite:
 ## 4. Pipeline de procesamiento
 
 El notebook (`notebooks_py/roosevelt_overture_poi.ipynb`) ejecuta:
-1. Descarga de POIs vía CLI de Overture Maps
-2. Filtrado espacial al polígono exacto
-3. Extracción de atributos (nombre, categoría, confianza)
-4. Clasificación en macrocategorías
-5. Visualización cartográfica
-6. Exportación a CSV y GeoJSON con metadatos
+1. Carga automática de datos desde repositorios Git (detecta Colab vs local)
+2. Carga del polígono de intervención desde el repo `indice-caminabilidad-roosevelt`
+3. Descarga de POIs vía CLI de Overture Maps usando bounding box calculado del polígono
+4. Filtrado espacial al polígono exacto (`within`)
+5. Extracción de atributos (nombre, categoría, confianza)
+6. Clasificación en 13 macrocategorías
+7. Mapa interactivo Folium multicapa (5 tile layers + POIs por categoría con popups)
+8. Mapa estático matplotlib con dispersión por macrocategoría
+9. Exportación a CSV y GeoJSON con metadatos de trazabilidad
 
 ## 5. Estructura del repositorio
 
@@ -44,14 +47,30 @@ Indice_Concurrencia/
 │   ├── context/        → Contexto del proyecto y glosario
 │   ├── knowledge_base/ → Guías metodológicas
 │   └── prompts/        → System prompt del agente
-├── data/               → Datos de entrada (CSV, GeoJSON)
+├── data/               → Datos de entrada y salida
+│   ├── roosevelt_overture_poi.csv
+│   ├── roosevelt_overture_poi (1).geojson
+│   └── info_geo/       → Información geográfica complementaria
+│       ├── Comunas.zip
+│       └── geojson_comunas/Comunas.geojson
 ├── notebooks_py/       → Notebooks de análisis
+│   ├── roosevelt_overture_poi.ipynb      → Notebook principal de POIs
+│   └── caminabilidad_roosevelt_v2.ipynb  → Notebook de caminabilidad
 ├── outputs/            → Resultados (mapas, reportes)
-├── docs/               → Documentación y metodología
+├── docs/               → Documentación del proyecto
+│   ├── metodologia.md
+│   └── referencia_caminabilidad_notebook.md
 ├── README.md
 ├── requirements.txt
 └── environment.yml
 ```
+
+## 5.1 Repositorios Git relacionados
+
+| Repositorio | URL | Uso |
+|-------------|-----|-----|
+| Índice de Concurrencia (este) | `https://github.com/j0rg3c45/Indice_Concurrencia.git` | Código, datos y documentación del índice |
+| Caminabilidad Roosevelt | `https://github.com/j0rg3c45/indice-caminabilidad-roosevelt.git` | Fuente del polígono y datos geoespaciales del corredor |
 
 ## 6. Próximos pasos del proyecto
 
