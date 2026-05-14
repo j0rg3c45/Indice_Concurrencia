@@ -1,0 +1,261 @@
+================================================================================
+  CONSOLIDADO — ÍNDICE DE CONCURRENCIA · Av. Roosevelt · Cali
+  ITT Cali Inteligente · Equipo de Gobierno de Datos
+  Fecha: Mayo 2026
+================================================================================
+
+1. RESUMEN EJECUTIVO
+────────────────────────────────────────────────────────────────────────────────
+
+El Índice de Concurrencia mide la vitalidad económica del corredor de Av.
+Roosevelt usando Puntos de Interés (POI) de Overture Maps Foundation como
+proxy de actividad comercial y de servicios.
+
+  • Fuente de datos:    Overture Maps Foundation (Meta, Microsoft, Amazon, TomTom)
+  • Release usado:      2026-04-15
+  • Fecha extracción:   2026-05-12
+  • Momento:            Línea base pre-intervención
+  • Polígono:           Buffer 100m del eje vial de Av. Roosevelt
+  • Área:               42.9 hectáreas
+  • CRS:                EPSG:4326 (WGS84)
+
+================================================================================
+
+2. CIFRAS CLAVE — LÍNEA BASE ROOSEVELT
+────────────────────────────────────────────────────────────────────────────────
+
+  POIs descargados (bounding box):     896
+  POIs dentro del polígono exacto:     474
+  POIs descartados por filtro:         422 (47%)
+  Confianza promedio:                  ~0.45
+  Macrocategorías identificadas:       13
+  Densidad:                            ~11.0 POIs/hectárea
+
+================================================================================
+
+3. DISTRIBUCIÓN POR MACROCATEGORÍA
+────────────────────────────────────────────────────────────────────────────────
+
+  Macrocategoría                    Cantidad    %
+  ─────────────────────────────────────────────────
+  Otros                                87     18.4%
+  Gastronomía y bebidas                68     14.3%
+  Comercio y tiendas                   56     11.8%
+  Automotriz y transporte              51     10.8%
+  Educación y formación                39      8.2%
+  Salud y bienestar                    36      7.6%
+  Servicios profesionales              33      7.0%
+  Cultura y entretenimiento            30      6.3%
+  Belleza y estética                   23      4.9%
+  Religioso                            15      3.2%
+  Alojamiento                          13      2.7%
+  Comunitario e institucional          12      2.5%
+  Deporte y recreación                 11      2.3%
+  ─────────────────────────────────────────────────
+  TOTAL                               474    100.0%
+
+================================================================================
+
+4. TOP 10 CATEGORÍAS OVERTURE (detalle fino)
+────────────────────────────────────────────────────────────────────────────────
+
+  Categoría Overture                Cantidad
+  ─────────────────────────────────────────────
+  restaurant                           22
+  sin_categoria                        16
+  dentist                              14
+  health_and_medical                   12
+  event_planning                       12
+  bar                                  12
+  motorcycle_dealer                    11
+  hotel                                11
+  professional_services                11
+  church_cathedral                     10
+
+================================================================================
+
+5. ZONA DE ESTUDIO — PARÁMETROS
+────────────────────────────────────────────────────────────────────────────────
+
+  Nombre:              Av. Roosevelt - Buffer 100m
+  Tipo:                Corredor vial con buffer
+  Buffer:              100 metros a cada lado del eje
+  Longitud corredor:   ~1,642 metros
+  Bounding box:        (-76.5424, 3.4251, -76.5369, 3.4376)
+  Archivo polígono:    Geojson_tramos_Roosevelt_Buffer_100.geojson
+  Fuente polígono:     Repo indice-caminabilidad-roosevelt
+
+================================================================================
+
+6. TERRITORIOS ESPEJO
+────────────────────────────────────────────────────────────────────────────────
+
+Se comparan los POIs de Roosevelt con dos corredores espejo para
+contextualizar los valores y establecer benchmarks.
+
+  Zona              Polígono                              Área
+  ─────────────────────────────────────────────────────────────────
+  Av. Roosevelt     Geojson_tramos_Roosevelt_Buffer_100   42.90 ha
+  Calle 5           calle_5_area_Espejo_Bf100.geojson     27.05 ha
+  Calle 7           calle_7_area_Espejo_Bf100.geojson     37.28 ha
+
+  Fuente polígonos espejo:
+  Repo: https://github.com/j0rg3c45/indice-caminabilidad-roosevelt.git
+  Ruta: data/Informacion_espejo/geojson_espejo_poligonos/
+
+  Nota: Los valores de POIs para Calle 5 y Calle 7 se calculan en tiempo
+  de ejecución del notebook (requiere descarga de Overture Maps).
+
+================================================================================
+
+7. COMPONENTES DEL ÍNDICE DE CONCURRENCIA (propuesta)
+────────────────────────────────────────────────────────────────────────────────
+
+  Componente          Fórmula                         Peso    ref_min  ref_max
+  ─────────────────────────────────────────────────────────────────────────────
+  Densidad            Total POIs / Área (ha)          40%     2        25
+  Diversidad          Shannon norm (H/ln(13))×100     40%     30       95
+  Confianza           Media campo confidence          20%     0.3      0.8
+
+  Fórmula compuesta:
+  IC = 0.40 × Densidad_norm + 0.40 × Diversidad_norm + 0.20 × Confianza_norm
+
+  Normalización:
+  score = clamp((valor - ref_min) / (ref_max - ref_min) × 100, 0, 100)
+
+================================================================================
+
+8. CLASIFICACIÓN DEL ÍNDICE
+────────────────────────────────────────────────────────────────────────────────
+
+  Rango IC     Nivel        Descripción
+  ─────────────────────────────────────────────────────────────────────────────
+  0 – 30       Bajo         Poca actividad económica visible
+  30 – 50      Moderado     Actividad presente pero limitada
+  50 – 70      Alto         Corredor activo con buena mezcla de usos
+  70 – 100     Muy alto     Alta vitalidad económica, diversa y consolidada
+
+================================================================================
+
+9. PIPELINE DEL NOTEBOOK
+────────────────────────────────────────────────────────────────────────────────
+
+  Celda   Descripción
+  ─────────────────────────────────────────────────────────────────────────────
+  1       Instalación de dependencias (overturemaps, geopandas, folium, etc.)
+  2       Importaciones y configuración (CRS, matplotlib)
+  3       Detección de entorno (Colab/local), clonación de repos Git
+  4       Carga del polígono y cálculo de bounding box
+  5       Descarga de POIs desde Overture Maps CLI
+  6       Filtrado espacial al polígono exacto (within)
+  7       Extracción de atributos y clasificación en 13 macrocategorías
+  8       Mapa interactivo Folium (5 tile layers, POIs por categoría, popups)
+  9       Mapa estático matplotlib (scatter por macrocategoría)
+  9B      Gráficos: barras horizontales + donut + confianza por categoría
+  10      Exportación CSV y GeoJSON con metadatos de trazabilidad
+  11      Descarga y procesamiento de POIs para territorios espejo
+  12      Gráficos comparativos Roosevelt vs Calle 5 vs Calle 7
+
+================================================================================
+
+10. REPOSITORIOS GIT
+────────────────────────────────────────────────────────────────────────────────
+
+  Repositorio                  URL                                              Uso
+  ─────────────────────────────────────────────────────────────────────────────────────
+  Índice de Concurrencia       github.com/j0rg3c45/Indice_Concurrencia          Proyecto principal
+  Caminabilidad Roosevelt      github.com/j0rg3c45/indice-caminabilidad-roosevelt  Polígono y datos geo
+
+================================================================================
+
+11. ESTRUCTURA DEL PROYECTO
+────────────────────────────────────────────────────────────────────────────────
+
+  Indice_Concurrencia/
+  ├── README.md
+  ├── requirements.txt
+  ├── environment.yml
+  ├── .gitignore
+  ├── consolidado.txt              ← Este archivo
+  ├── agent/
+  │   ├── context/
+  │   │   ├── contexto_agente_master.md
+  │   │   ├── contexto_proyecto.md
+  │   │   ├── glosario.md
+  │   │   └── zonas_estudio.md
+  │   ├── knowledge_base/
+  │   │   ├── metodologia_indice_concurrencia.md
+  │   │   └── README.md
+  │   └── prompts/
+  │       └── system_prompt.md
+  ├── data/
+  │   ├── roosevelt_overture_poi.csv
+  │   ├── roosevelt_overture_poi (1).geojson
+  │   └── info_geo/
+  │       ├── Comunas.zip
+  │       └── geojson_comunas/Comunas.geojson
+  ├── notebooks_py/
+  │   ├── roosevelt_overture_poi.ipynb
+  │   └── caminabilidad_roosevelt_v2.ipynb
+  ├── outputs/
+  │   └── roosevelt_overture_poi_mapa (1).png
+  └── docs/
+      ├── metodologia.md
+      └── referencia_caminabilidad_notebook.md
+
+================================================================================
+
+12. GRÁFICOS GENERADOS
+────────────────────────────────────────────────────────────────────────────────
+
+  Archivo                                    Contenido
+  ─────────────────────────────────────────────────────────────────────────────
+  roosevelt_overture_poi_mapa.png            Mapa estático scatter por macrocategoría
+  graf_distribucion_macrocategorias.png      Barras horizontales + donut chart
+  graf_confianza_por_categoria.png           Confianza promedio por macrocategoría
+  graf_comparacion_pois_espejo.png           Barras agrupadas Roosevelt vs espejo
+  graf_resumen_comparacion_zonas.png         Total POIs y confianza por zona
+
+================================================================================
+
+13. METADATOS DE TRAZABILIDAD (CSV exportado)
+────────────────────────────────────────────────────────────────────────────────
+
+  Campo               Valor
+  ─────────────────────────────────────────────────────────────────────────────
+  nombre              [nombre del POI]
+  categoria           [categoría Overture original]
+  confianza           [0.0 - 1.0]
+  lat                 [latitud WGS84]
+  lon                 [longitud WGS84]
+  macrocategoria      [una de las 13 macrocategorías]
+  fecha_extraccion    2026-05-12
+  poligono            Av. Roosevelt - Buffer 100m
+  fuente              Overture Maps Foundation
+  momento             linea_base_pre_intervencion
+  release_overture    2026-04-15
+
+================================================================================
+
+14. NOTAS IMPORTANTES
+────────────────────────────────────────────────────────────────────────────────
+
+  • Mapas Folium en VS Code/Jupyter: Si aparece "Make this Notebook Trusted
+    to load map", ir a File → Trust Notebook. Es una acción manual única.
+    En Google Colab no se requiere.
+
+  • Los POIs reflejan presencia digital, no necesariamente actividad real.
+    Negocios informales sin presencia digital no aparecen.
+
+  • Para medición post-intervención: cambiar 'momento' a 'post_intervencion'
+    y repetir con el release más reciente de Overture Maps.
+
+  • Cada vez que se actualice información del proyecto, hacer commit y push
+    al repositorio remoto automáticamente.
+
+  • La relación entre POIs y transformación territorial es correlacional,
+    no causal. Más POIs ≠ mejor resultado necesariamente.
+
+================================================================================
+  Fin del consolidado
+================================================================================
