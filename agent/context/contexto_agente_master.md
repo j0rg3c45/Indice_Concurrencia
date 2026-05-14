@@ -88,6 +88,7 @@ Indice_Concurrencia/
 - El campo `confianza` de Overture Maps varía entre 0 y 1; valores bajos (<0.3) indican menor certeza.
 - La categorización de Overture puede tener errores; la macrocategoría es una agrupación propia del equipo.
 - No asumir que la cantidad de POIs equivale directamente a actividad económica real; es un proxy.
+- **Mapas Folium:** Si al ejecutar el notebook en VS Code o Jupyter aparece "Make this Notebook Trusted to load map", el usuario debe hacer clic en "Trust" en la barra superior del notebook (o File → Trust Notebook). Es una acción manual única que habilita la renderización de HTML/JS embebido. En Google Colab no se requiere este paso.
 
 ## 8. Dónde vive el conocimiento
 

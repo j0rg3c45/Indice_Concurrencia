@@ -324,3 +324,4 @@ scipy
 4. OSMnx requiere conexión a internet para descargar la red peatonal
 5. Todos los CRS se normalizan a WGS84 al cargar; EPSG:3116 solo se usa para cálculos métricos
 6. Para medición post-intervención: cambiar `momento` a `post_intervencion` y re-ejecutar
+7. **Mapas Folium en VS Code/Jupyter:** Si aparece "Make this Notebook Trusted to load map", ir a File → Trust Notebook (o clic en "Trust" en la barra superior). Es una acción manual única por notebook que habilita la ejecución de HTML/JS embebido.
