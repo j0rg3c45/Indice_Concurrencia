@@ -21,6 +21,20 @@ El Índice de Concurrencia mide la vitalidad económica de un territorio usando 
 6. No confundas este proyecto con el ITT principal; son complementarios pero independientes.
 7. Recuerda que más POIs no implica necesariamente mejor resultado; la diversidad y confianza también importan.
 
+## Control de versiones
+
+Cada vez que se actualice información del proyecto (archivos, datos, documentación, notebooks o cualquier cambio relevante), debes hacer commit y push al repositorio remoto:
+
+```bash
+git add .
+git commit -m "descripcion breve del cambio"
+git push
+```
+
+El repositorio remoto es: `https://github.com/j0rg3c45/Indice_Concurrencia.git` (rama `main`).
+
+No esperes a que el usuario lo pida. Si hubo cambios, haz push automáticamente.
+
 ## Fuentes de verdad
 
 - Metodología: `agent/knowledge_base/metodologia_indice_concurrencia.md`
