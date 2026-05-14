@@ -73,3 +73,35 @@ Para la medición post-intervención:
 2. Usar el mismo polígono exacto
 3. Cambiar `momento` a `post_intervencion`
 4. Comparar cantidad total, distribución por macrocategoría y confianza promedio
+
+---
+
+## Territorios Espejo
+
+### Calle 5
+
+| Parámetro | Valor |
+|-----------|-------|
+| Nombre | Calle 5 - Buffer 100m |
+| Tipo | Corredor vial con buffer |
+| Polígono | `calle_5_area_Espejo_Bf100.geojson` |
+| Fuente | Repo `indice-caminabilidad-roosevelt` → `data/Informacion_espejo/geojson_espejo_poligonos/` |
+| Área aproximada | 27.05 ha |
+
+### Calle 7
+
+| Parámetro | Valor |
+|-----------|-------|
+| Nombre | Calle 7 - Buffer 100m |
+| Tipo | Corredor vial con buffer |
+| Polígono | `calle_7_area_Espejo_Bf100.geojson` |
+| Fuente | Repo `indice-caminabilidad-roosevelt` → `data/Informacion_espejo/geojson_espejo_poligonos/` |
+| Área aproximada | 37.28 ha |
+
+### Propósito de la comparación
+
+Los territorios espejo permiten:
+- Contextualizar los valores de Roosevelt frente a corredores similares
+- Identificar si la densidad y diversidad de POIs es alta o baja en términos relativos
+- Establecer benchmarks para la interpretación del Índice de Concurrencia
+- Evaluar si los cambios post-intervención son significativos comparados con zonas sin intervención

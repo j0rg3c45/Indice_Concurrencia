@@ -16,6 +16,9 @@
 | CRS | Sistema de Referencia de Coordenadas (EPSG:4326 = WGS84 geográfico) |
 | Datalake | Repositorio centralizado de datos del equipo de Gobierno de Datos |
 | ITT | Índice de Transformación Territorial (proyecto hermano que mide transformación integral) |
+| Territorio espejo | Corredor vial comparable usado como referencia para contextualizar los valores de Roosevelt |
 | Presencia digital | Existencia de un lugar en plataformas digitales (Google, Meta, etc.) aunque no tenga registro formal |
 | GeoJSON | Formato estándar abierto para representar datos geoespaciales |
 | CLI | Command Line Interface; herramienta de línea de comandos de Overture Maps |
+| Donut chart | Gráfico circular con hueco central, usado para mostrar proporciones |
+| Barras agrupadas | Gráfico de barras que compara múltiples zonas lado a lado por categoría |

@@ -74,11 +74,12 @@ Indice_Concurrencia/
 
 ## 6. Próximos pasos del proyecto
 
-- Definir fórmula del Índice de Concurrencia (densidad, diversidad, confianza promedio).
-- Establecer umbrales o benchmarks para interpretar el índice.
+- Definir fórmula final del Índice de Concurrencia (densidad, diversidad, confianza promedio).
+- Establecer umbrales o benchmarks para interpretar el índice usando los territorios espejo como referencia.
 - Automatizar la descarga periódica para seguimiento temporal.
 - Integrar con el ITT como indicador complementario de Entorno Urbano.
 - Repetir medición post-intervención para evaluar impacto.
+- Consolidar comparación con territorios espejo en un reporte ejecutivo.
 
 ## 7. Precauciones para el agente
 
@@ -92,8 +93,10 @@ Indice_Concurrencia/
 
 Para responder bien sobre este proyecto, un agente debe leer en este orden:
 
-1. `agent/context/contexto_proyecto.md` (este archivo es el resumen ejecutivo)
+1. `agent/context/contexto_proyecto.md` (resumen ejecutivo)
 2. `agent/knowledge_base/metodologia_indice_concurrencia.md`
 3. `agent/context/glosario.md`
-4. `notebooks_py/roosevelt_overture_poi.ipynb`
-5. `data/roosevelt_overture_poi.csv`
+4. `agent/context/zonas_estudio.md`
+5. `docs/referencia_caminabilidad_notebook.md`
+6. `notebooks_py/roosevelt_overture_poi.ipynb`
+7. `data/roosevelt_overture_poi.csv`

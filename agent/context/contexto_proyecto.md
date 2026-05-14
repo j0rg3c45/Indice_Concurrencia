@@ -92,9 +92,19 @@ El notebook `notebooks_py/roosevelt_overture_poi.ipynb` ejecuta:
 
 - **Total POIs en polígono exacto:** 474
 - **Distribución principal:**
-  - Gastronomía y bebidas: ~80 lugares
-  - Salud y bienestar: ~50 lugares
-  - Comercio y tiendas: ~45 lugares
-  - Automotriz y transporte: ~40 lugares
-  - Servicios profesionales: ~35 lugares
-  - Educación y formación: ~30 lugares
+  - Otros: ~87 lugares
+  - Gastronomía y bebidas: ~68 lugares
+  - Comercio y tiendas: ~56 lugares
+  - Automotriz y transporte: ~51 lugares
+  - Educación y formación: ~39 lugares
+  - Salud y bienestar: ~36 lugares
+  - Servicios profesionales: ~33 lugares
+  - Cultura y entretenimiento: ~30 lugares
+
+## Territorios espejo
+
+El notebook incluye comparación con dos corredores espejo (Calle 5 y Calle 7) cuyos polígonos se obtienen del repo de caminabilidad. Para cada zona espejo se:
+1. Descarga POIs de Overture Maps
+2. Filtra al polígono exacto
+3. Clasifica en las mismas 13 macrocategorías
+4. Compara con Roosevelt mediante gráficos de barras agrupadas, totales y confianza promedio

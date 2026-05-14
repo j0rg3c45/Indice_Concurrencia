@@ -201,6 +201,35 @@ La decisión de integración depende del equipo y de la validación con datos re
 
 ---
 
+## 8.1 Comparación con territorios espejo
+
+El notebook incluye descarga y análisis de POIs para dos territorios espejo (Calle 5 y Calle 7) que sirven como referencia comparativa.
+
+### Proceso para zonas espejo
+
+1. Cargar polígonos desde `data/Informacion_espejo/geojson_espejo_poligonos/` (repo caminabilidad)
+2. Descargar POIs de Overture Maps para cada zona
+3. Filtrar al polígono exacto
+4. Clasificar en las mismas 13 macrocategorías
+5. Comparar con Roosevelt
+
+### Gráficos comparativos generados
+
+| Gráfico | Tipo | Contenido |
+|---------|------|-----------|
+| Barras agrupadas por macrocategoría | barh agrupado | Cantidad de POIs por categoría, 3 zonas lado a lado |
+| Total de POIs por zona | barras verticales | Comparación directa del volumen total |
+| Confianza promedio por zona | barras verticales | Calidad/certeza de los datos por zona |
+
+### Interpretación
+
+- Si Roosevelt tiene **menos POIs** que los espejo → menor vitalidad económica relativa
+- Si Roosevelt tiene **menor diversidad** → concentración en pocas categorías
+- Si Roosevelt tiene **menor confianza** → datos menos consolidados (negocios más nuevos o informales)
+- Post-intervención: si Roosevelt **sube** y los espejo se mantienen → evidencia de impacto positivo
+
+---
+
 ## 9. Limitaciones y precauciones
 
 | Limitación | Implicación |
