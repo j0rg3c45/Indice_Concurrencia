@@ -86,54 +86,63 @@ Se aplica una función de agrupación que mapea las ~150 categorías de Overture
 
 ## 4. Componentes del Índice de Concurrencia (propuesta)
 
-### 4.1 Densidad de POIs
-
-Mide la cantidad de establecimientos por unidad de área.
+### 4.1 IC v1 — Índice original (3 componentes)
 
 ```
-Densidad = Total_POIs / Área_hectáreas
+IC_v1 = 0.40 × Densidad_area_norm + 0.40 × Diversidad_norm + 0.20 × Confianza_norm
 ```
 
-Para Roosevelt: 474 / 42.9 ≈ 11.0 POIs/ha
+| Componente | Fórmula cruda | Peso | ref_min | ref_max |
+|-----------|---------------|------|---------|---------|
+| Densidad por área | Total_POIs / Área_ha | 40% | 2 | 25 |
+| Diversidad (Shannon) | (H / ln(13)) × 100 | 40% | 30 | 95 |
+| Confianza | media(campo confidence) | 20% | 0.30 | 0.80 |
 
-### 4.2 Diversidad (Índice de Shannon)
+### 4.2 IC v2 — Índice mejorado (4 componentes, con dato poblacional)
 
-Mide qué tan equilibrada es la distribución entre macrocategorías.
+```
+IC_v2 = 0.30 × Densidad_area_norm + 0.30 × Diversidad_norm + 0.20 × Densidad_pob_norm + 0.20 × Confianza_norm
+```
 
+| Componente | Fórmula cruda | Peso | ref_min | ref_max |
+|-----------|---------------|------|---------|---------|
+| Densidad por área | Total_POIs / Área_ha | 30% | 2 | 25 |
+| Diversidad (Shannon) | (H / ln(13)) × 100 | 30% | 30 | 95 |
+| Densidad poblacional | Total_POIs / (Población / 1000) | 20% | 5 | 80 |
+| Confianza | media(campo confidence) | 20% | 0.30 | 0.80 |
+
+### 4.3 Notas sobre las fórmulas
+
+**Normalización (aplica a ambas versiones):**
+```
+score = clamp((valor - ref_min) / (ref_max - ref_min) × 100, 0, 100)
+```
+- `clamp` acota el resultado al rango [0, 100]
+- Si `valor < ref_min` → score = 0
+- Si `valor > ref_max` → score = 100
+
+**Índice de Shannon (diversidad):**
 ```
 H = -Σ (pi × ln(pi))
 ```
+- `pi` = proporción de POIs en la macrocategoría `i`
+- `H_max = ln(13)` (13 macrocategorías definidas)
+- Se normaliza: `diversidad = (H / H_max) × 100`
+- Valor 0 = todos los POIs en una sola categoría
+- Valor 100 = distribución perfectamente uniforme
 
-Donde `pi` es la proporción de POIs en la macrocategoría `i`.
+**Densidad poblacional (IC v2):**
+- Fuente: `Personas_por_hogar_según_barrio_2016.zip` (shapefile de 334 barrios)
+- Se buscan barrios que intersectan con el polígono de la zona
+- Si la población directa es < 500 (datos parciales), se usa la comuna completa
+- Dato de 2016 — debe actualizarse cuando haya censo más reciente
+- Interpretación: más POIs por habitante = mayor oferta comercial relativa
 
-- H = 0: todos los POIs en una sola categoría (mínima diversidad)
-- H = ln(13) ≈ 2.56: distribución perfectamente uniforme (máxima diversidad)
-
-Se puede normalizar a escala 0-100:
-```
-Diversidad_norm = (H / ln(13)) × 100
-```
-
-### 4.3 Confianza promedio
-
-Mide la calidad/certeza promedio de los POIs del territorio.
-
-```
-Confianza_prom = mean(confianza de todos los POIs)
-```
-
-Valores más altos indican mayor certeza de que los lugares existen y están activos.
-
-### 4.4 Índice compuesto (propuesta de ponderación)
-
-```
-IC = w1 × Densidad_norm + w2 × Diversidad_norm + w3 × Confianza_norm
-```
-
-Ponderaciones sugeridas (a validar con el equipo):
-- Densidad: 40%
-- Diversidad: 40%
-- Confianza: 20%
+**Criterios de calibración de refs:**
+- `ref_min` = valor aspiracional o mínimo razonable para corredores urbanos de Cali
+- `ref_max` = valor alto pero alcanzable en zonas comerciales consolidadas
+- Los refs son fijos y documentados, no calculados dinámicamente de los datos
+- Consistentes con la metodología del ITT (ver `Guia_ITT_Metodologia_Notebook.md`)
 
 ---
 

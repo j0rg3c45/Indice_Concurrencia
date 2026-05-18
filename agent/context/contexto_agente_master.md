@@ -25,6 +25,44 @@ El índice permite:
 - **474 POIs** dentro del polígono exacto (de 896 en el bounding box).
 - Cada POI tiene: nombre, categoría Overture, confianza, lat, lon, macrocategoría.
 - Metadatos de trazabilidad: fecha_extraccion, poligono, fuente, momento, release_overture.
+- **Datos demográficos:** 334 barrios con población, hogares, viviendas, personas/hogar (2016).
+- **Comunas:** 22 polígonos de comunas de Cali. Roosevelt está en Comuna 19.
+
+## 3.1 Fórmulas del Índice
+
+**IC v1 (3 componentes):**
+```
+IC_v1 = 0.40 × Densidad_area_norm + 0.40 × Diversidad_norm + 0.20 × Confianza_norm
+```
+
+**IC v2 (4 componentes, con dato poblacional):**
+```
+IC_v2 = 0.30 × Densidad_area_norm + 0.30 × Diversidad_norm + 0.20 × Densidad_pob_norm + 0.20 × Confianza_norm
+```
+
+**Normalización:**
+```
+score = clamp((valor - ref_min) / (ref_max - ref_min) × 100, 0, 100)
+```
+
+**Refs fijos:**
+| Componente | ref_min | ref_max |
+|-----------|---------|---------|
+| Densidad área (POIs/ha) | 2 | 25 |
+| Diversidad (Shannon norm) | 30 | 95 |
+| Densidad poblacional (POIs/1000 hab) | 5 | 80 |
+| Confianza promedio | 0.30 | 0.80 |
+
+**Diversidad Shannon:**
+```
+H = -Σ(pi × ln(pi))
+diversidad = (H / ln(13)) × 100
+```
+
+**Densidad poblacional:**
+- Fuente: barrios 2016 (shapefile)
+- Si población directa < 500, se usa la comuna completa
+- Dato antiguo (2016), debe actualizarse cuando haya censo más reciente
 
 ## 4. Pipeline de procesamiento
 

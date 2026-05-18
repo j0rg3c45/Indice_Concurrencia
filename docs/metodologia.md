@@ -22,11 +22,37 @@ Cuantificar la vitalidad económica y de servicios del corredor de Av. Roosevelt
 
 ## Variables e indicadores
 
-| Componente | Fórmula | Peso sugerido |
-|-----------|---------|---------------|
-| Densidad | Total POIs / Área (ha) | 40% |
-| Diversidad | Shannon normalizado (H / ln(13)) × 100 | 40% |
-| Confianza | Media del campo `confidence` de Overture | 20% |
+### IC v1 — Índice original (3 componentes)
+
+```
+IC_v1 = 0.40 × Densidad_area_norm + 0.40 × Diversidad_norm + 0.20 × Confianza_norm
+```
+
+| Componente | Fórmula | Peso | ref_min | ref_max |
+|-----------|---------|------|---------|---------|
+| Densidad | Total POIs / Área (ha) | 40% | 2 | 25 |
+| Diversidad | Shannon normalizado (H / ln(13)) × 100 | 40% | 30 | 95 |
+| Confianza | Media del campo `confidence` de Overture | 20% | 0.3 | 0.8 |
+
+### IC v2 — Índice mejorado (4 componentes)
+
+```
+IC_v2 = 0.30 × Densidad_area_norm + 0.30 × Diversidad_norm + 0.20 × Densidad_pob_norm + 0.20 × Confianza_norm
+```
+
+| Componente | Fórmula | Peso | ref_min | ref_max |
+|-----------|---------|------|---------|---------|
+| Densidad área | Total POIs / Área (ha) | 30% | 2 | 25 |
+| Diversidad | Shannon normalizado (H / ln(13)) × 100 | 30% | 30 | 95 |
+| Densidad poblacional | Total POIs / (Población / 1000) | 20% | 5 | 80 |
+| Confianza | Media del campo `confidence` de Overture | 20% | 0.3 | 0.8 |
+
+### Notas de cálculo
+
+- **Normalización:** `score = clamp((valor - ref_min) / (ref_max - ref_min) × 100, 0, 100)`
+- **Shannon:** `H = -Σ(pi × ln(pi))`, normalizado con `H_max = ln(13)` (13 macrocategorías)
+- **Densidad poblacional:** Fuente `Personas_por_hogar_según_barrio_2016.zip`. Si la población directa del polígono es < 500, se usa la comuna completa como referencia.
+- **Refs fijos:** No se calculan dinámicamente. Son umbrales documentados para corredores urbanos de Cali.
 
 ## Clasificación del índice
 
