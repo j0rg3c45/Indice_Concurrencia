@@ -101,6 +101,26 @@ El notebook `notebooks_py/roosevelt_overture_poi.ipynb` ejecuta:
   - Servicios profesionales: ~33 lugares
   - Cultura y entretenimiento: ~30 lugares
 
+## Índice de Concurrencia — Dos versiones
+
+### IC v1 (3 componentes)
+```
+IC_v1 = 0.40 × Densidad_area + 0.40 × Diversidad + 0.20 × Confianza
+```
+
+### IC v2 (4 componentes, ponderación espacial)
+```
+IC_v2 = 0.30 × Densidad_area + 0.30 × Diversidad + 0.20 × Densidad_pob + 0.20 × Confianza
+```
+
+El componente poblacional usa **ponderación espacial por área de intersección**:
+```
+Pob_zona = Σ(pob_barrio × area_interseccion / area_barrio)
+```
+- No depende de que la zona caiga exactamente en un barrio
+- Si cruza 5 barrios, toma la proporción de cada uno
+- Se adapta a cualquier tamaño y ubicación de zona de estudio
+
 ## Territorios espejo
 
 El notebook incluye comparación con dos corredores espejo (Calle 5 y Calle 7) cuyos polígonos se obtienen del repo de caminabilidad. Para cada zona espejo se:

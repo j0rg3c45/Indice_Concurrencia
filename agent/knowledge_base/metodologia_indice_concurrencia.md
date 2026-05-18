@@ -133,8 +133,17 @@ H = -Σ (pi × ln(pi))
 
 **Densidad poblacional (IC v2):**
 - Fuente: `Personas_por_hogar_según_barrio_2016.zip` (shapefile de 334 barrios)
-- Se buscan barrios que intersectan con el polígono de la zona
-- Si la población directa es < 500 (datos parciales), se usa la comuna completa
+- Método: **Ponderación espacial por área de intersección**
+  ```
+  Para cada barrio que intersecta con la zona:
+      area_interseccion = geometría_barrio ∩ geometría_zona (en m², EPSG:3116)
+      proporcion = area_interseccion / area_total_barrio
+      poblacion_asignada = poblacion_barrio × proporcion
+  Poblacion_zona = Σ poblacion_asignada
+  ```
+- No usa fallbacks arbitrarios: la población se distribuye proporcionalmente
+- Funciona sin importar cuántos barrios o comunas cruce la zona de estudio
+- Se adapta automáticamente al tamaño y ubicación de cualquier zona
 - Dato de 2016 — debe actualizarse cuando haya censo más reciente
 - Interpretación: más POIs por habitante = mayor oferta comercial relativa
 

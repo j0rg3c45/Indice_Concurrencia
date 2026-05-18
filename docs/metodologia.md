@@ -51,7 +51,7 @@ IC_v2 = 0.30 × Densidad_area_norm + 0.30 × Diversidad_norm + 0.20 × Densidad_
 
 - **Normalización:** `score = clamp((valor - ref_min) / (ref_max - ref_min) × 100, 0, 100)`
 - **Shannon:** `H = -Σ(pi × ln(pi))`, normalizado con `H_max = ln(13)` (13 macrocategorías)
-- **Densidad poblacional:** Fuente `Personas_por_hogar_según_barrio_2016.zip`. Si la población directa del polígono es < 500, se usa la comuna completa como referencia.
+- **Densidad poblacional:** Fuente `Personas_por_hogar_según_barrio_2016.zip`. Se usa ponderación espacial por área: `Pob_zona = Σ(pob_barrio × area_interseccion / area_barrio)`. No usa fallbacks arbitrarios; la población se distribuye proporcionalmente al área real de intersección entre cada barrio y la zona de estudio.
 - **Refs fijos:** No se calculan dinámicamente. Son umbrales documentados para corredores urbanos de Cali.
 
 ## Clasificación del índice

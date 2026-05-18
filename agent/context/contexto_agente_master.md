@@ -61,7 +61,12 @@ diversidad = (H / ln(13)) × 100
 
 **Densidad poblacional:**
 - Fuente: barrios 2016 (shapefile)
-- Si población directa < 500, se usa la comuna completa
+- Método: ponderación espacial por área de intersección
+  ```
+  Pob_zona = Σ(pob_barrio × area_interseccion / area_barrio)
+  ```
+- No usa fallbacks: la población se distribuye proporcionalmente al área real
+- Funciona con cualquier zona (1 barrio, 5 barrios, 2 comunas, etc.)
 - Dato antiguo (2016), debe actualizarse cuando haya censo más reciente
 
 ## 4. Pipeline de procesamiento
